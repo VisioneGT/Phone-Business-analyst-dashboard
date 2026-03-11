@@ -1,0 +1,38 @@
+phone_id,brand,model,storage_gb,color,condition,date_purchased,purchase_price,supplier,status,month
+1,Apple,iPhone 12,128,Black,cracked screen,2024-10-01,80.00,InsureCo Batch A,sold,1
+2,Apple,iPhone 12,128,White,dead battery,2024-10-03,60.00,InsureCo Batch A,sold,1
+3,Apple,iPhone 13,256,Blue,cracked screen,2024-10-05,130.00,InsureCo Batch A,sold,1
+4,Apple,iPhone 11,64,Black,water damage,2024-10-07,40.00,InsureCo Batch B,scrapped,1
+5,Apple,iPhone 13 Pro,256,Gold,cracked screen,2024-10-10,180.00,InsureCo Batch B,sold,1
+6,Samsung,Galaxy S21,128,Gray,cracked screen,2024-10-12,70.00,DirectDrop Ltd,sold,1
+7,Samsung,Galaxy S22,256,White,dead battery,2024-10-15,90.00,DirectDrop Ltd,sold,1
+8,Samsung,Galaxy A53,128,Black,cracked screen,2024-10-18,45.00,InsureCo Batch C,sold,1
+9,Apple,iPhone 12,64,Red,other,2024-10-20,55.00,InsureCo Batch C,sold,1
+10,Huawei,P30 Pro,128,Black,cracked screen,2024-10-21,55.00,InsureCo Batch C,sold,1
+11,Samsung,Galaxy S21,128,Black,water damage,2024-10-25,35.00,DirectDrop Ltd,sold,1
+12,OnePlus,9 Pro,256,Green,dead battery,2024-10-26,65.00,TechReclaim ZA,sold,1
+13,Xiaomi,Redmi Note 11,128,Blue,cracked screen,2024-10-27,30.00,TechReclaim ZA,sold,1
+14,Google,Pixel 6,128,Stormy Black,dead battery,2024-10-28,75.00,InsureCo Batch D,sold,1
+15,Sony,Xperia 5 III,128,Black,cracked screen,2024-10-29,85.00,DirectDrop Ltd,sold,1
+16,Apple,iPhone 14,128,Black,cracked screen,2024-10-30,200.00,InsureCo Batch D,sold,1
+17,Samsung,Galaxy S23,256,Cream,dead battery,2024-10-31,140.00,DirectDrop Ltd,sold,1
+18,Motorola,Edge 30,128,Gray,cracked screen,2024-10-31,40.00,TechReclaim ZA,sold,1
+19,Apple,iPhone 11,128,Yellow,cracked screen,2024-11-01,250.00,InsureCo Batch E,in stock,2
+20,Apple,iPhone 13,128,Midnight,dead battery,2024-11-02,110.00,InsureCo Batch E,sold,2
+21,Apple,iPhone 14 Pro,256,Space Black,cracked screen,2024-11-03,280.00,InsureCo Batch E,sold,2
+22,Samsung,Galaxy S23 Ultra,256,Phantom Black,cracked screen,2024-11-04,220.00,DirectDrop Ltd,sold,2
+23,Samsung,Galaxy A54,128,White,dead battery,2024-11-05,55.00,DirectDrop Ltd,sold,2
+24,Google,Pixel 7,128,Snow,cracked screen,2024-11-06,95.00,InsureCo Batch E,sold,2
+25,OnePlus,10 Pro,256,Volcanic Black,dead battery,2024-11-07,90.00,TechReclaim ZA,sold,2
+26,Huawei,P40 Pro,256,Silver Frost,water damage,2024-11-08,70.00,TechReclaim ZA,sold,2
+27,Xiaomi,12 Pro,256,Blue,cracked screen,2024-11-09,85.00,TechReclaim ZA,sold,2
+28,Sony,Xperia 1 IV,256,Black,dead battery,2024-11-10,110.00,DirectDrop Ltd,sold,2
+29,Apple,iPhone 15,128,Black,cracked screen,2024-11-11,320.00,InsureCo Batch F,sold,2
+30,Samsung,Galaxy S22 Ultra,256,Burgundy,cracked screen,2024-11-12,175.00,DirectDrop Ltd,sold,2
+31,Motorola,Edge 40,256,Lunar Blue,dead battery,2024-11-13,60.00,TechReclaim ZA,sold,2
+32,Nokia,G60,128,Black,cracked screen,2024-11-14,25.00,TechReclaim ZA,sold,2
+33,Apple,iPhone 12,128,Purple,other,2024-11-15,70.00,InsureCo Batch F,sold,2
+34,Google,Pixel 6a,128,Chalk,dead battery,2024-11-16,65.00,InsureCo Batch F,sold,2
+35,Samsung,Galaxy A34,128,Silver,cracked screen,2024-11-17,40.00,DirectDrop Ltd,in stock,2
+36,Apple,iPhone 13 Pro,256,Alpine Green,water damage,2024-11-18,170.00,InsureCo Batch F,in stock,2
+37,OnePlus,Nord 3,256,Tempest Gray,cracked screen,2024-11-19,50.00,TechReclaim ZA,in stock,2
